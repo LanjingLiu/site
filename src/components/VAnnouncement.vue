@@ -10,7 +10,7 @@
 export default {
   data() {
     return {
-      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Chao_Zhang.pdf`, import.meta.url).href,
+      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Lanjing_Liu.pdf`, import.meta.url).href,
     };
   },
 };

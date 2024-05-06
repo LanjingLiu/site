@@ -11,7 +11,7 @@ module.exports = {
       colors: {
         light: '#F4F4F4',
         dark: '#333333',
-        highlight: '#8E2A29'
+        highlight: '#000000'
       },
       fontSize: {
         xxs: '10px'

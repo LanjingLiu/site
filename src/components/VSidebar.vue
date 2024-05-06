@@ -18,7 +18,7 @@
         <a href="https://github.com/zhangchaodesign">
           <icon-fa-brands-github-square class="icon" />
         </a>
-        <a href="mailto:zhangchaohci@gmail.com">
+        <a href="mailto:lanjing@vt.edu">
           <icon-ic-round-email class="icon" />
         </a>
       </div>
@@ -34,7 +34,7 @@ import VNews from "@/components/VNews.vue";
 export default {
   data() {
     return {
-      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Chao_Zhang.pdf`, import.meta.url).href,
+      pdf: new URL(`../assets/info/Curriculum_Vitae_of_Lanjing_Liu.pdf`, import.meta.url).href,
     };
   },
   components: {
