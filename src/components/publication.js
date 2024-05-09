@@ -20,6 +20,26 @@ export default {
       talk: ''
     },
     {
+      cover: 'smartwatch_chi24/cover.jpg',
+      animation: 'smartwatch_chi24/animation.jpg',
+      title:
+        " Exploring Design Opportunities for Family-Based Privacy Education in Informal Learning Spaces",
+      authors: [
+        'Lanjing Liu',
+        'Lan Gao',
+        'Nikita Soni',
+        'Yaxing Yao'
+      ],
+      abstract:
+        'Children face increasing privacy risks and the need to navigate complex choices, while privacy education is not sufficient due to limited education scope and family involvement. We advocate for informal learning spaces (ILS) as a pioneering channel for familybased privacy education, given their established role in holistic technology and digital literacy education, which specifically targets family groups. In this paper, we conducted an interview study with eight families to understand revealing current approaches to privacy education and engagement with ILS for family-based learning. Our findings highlight ILS’s transformative potential in family privacy education, considering existing practices and challenges. We discuss the design opportunities for family-based privacy education in ILS, covering goals, content, engagement, and experience design. These insights contribute to future research on family-based privacy education in ILS.',
+      venue:
+        'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024) and 24th Privacy Enhancing Technologies Symposium (PETS 2024)',
+      pdf: '',
+      link: '',
+      video: '',
+      talk: ''
+    },
+    {
       cover: 'biosketchbook_idc23/cover.jpg',
       animation: 'biosketchbook_idc23/animation.gif',
       title:
@@ -48,6 +68,5 @@ export default {
       talk: 'https://youtu.be/Dd47PQtci90'
     }
   ],
-  others: [
-  ]
+
 };

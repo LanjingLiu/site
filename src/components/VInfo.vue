@@ -6,27 +6,20 @@
         <img class="logo" src="@/assets/logo/logo_light.svg" alt="" />
       </div>
 
-      <p class="title">Ph.D. Student (he/him/his) @ Cornell University</p>
+      <p class="title">Ph.D. Student (she/her/her) @ Virginia Tech</p>
     </div>
 
     <div class="detail">
       <p class="paragraph">
         I am a first-year Ph.D. student at
-        <a href="https://www.cornell.edu/">Virginia Tech</a>, advised by
-        <a href="http://jeffrz.com/">Yaxing Yao</a>. I serve as both a UX designer
+        <a href="https://www.vt.edu/">Virginia Tech</a>, advised by
+        <a href="https://yaxingyao.com/">Yaxing Yao</a>. I serve as both a UX designer
         and an HCI researcher. As a <span class="phrase_highlight">UX DESIGNER</span>, my
         designs have been recognized in esteemed design competitions such as Red Dot, iF,
         and A’ Design, and featured at notable events including Dubai Design Week and
         China Design Exhibition. As an
-        <span class="phrase_highlight">HCI RESEARCHER</span>, I have published in
-        reputable HCI venues like CHI, CSCW, IMWUT, IDC, and MobileHCI. I am also
-        fortunate to have worked alongside distinguished professors such as
-        <a href="https://ying-xu.com/">Ying Xu</a>,
-        <a href="https://toby.li/">Toby Jia-jun Li</a>,
-        <a href="http://yaxingyao.com/">Yaxing Yao</a>,
-        <a href="https://person.zju.edu.cn/en/yaoch">Cheng Yao</a>,
-        <a href="https://guanyundesign.com/">Guanyun Wang</a>, and
-        <a href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>.
+        <span class="phrase_highlight">Design RESEARCHER</span>, I have published in
+        reputable HCI venues like CHI and IDC, also Design venues like Fine Art and Design. 
       </p>
 
       <!-- <VAnnouncement /> -->
@@ -38,17 +31,16 @@
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary background in Design Engineering (M.E. from
-            <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>), Electrical
-            Engineering (B.E. from
-            <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), and
-            Digital Media Technology (Minor from
+            With an interdisciplinary background in Design (M.A. from
+            <a href="https://tjdi.tongji.edu.cn/?lang=en">Tongji University</a>), Industrial Design (B.E. from
             <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
             research interest primarily lies in
             <b>
-              ethically designing human-AI interaction to support human sensemaking in
-              creative and learning activities</b
+              the intersection of Child-Computer Interaction and Usable Privacy</b
             >.
+            Currently, I am investigating how teenagers interact with technology—both the benefits they gain 
+            and the abuses they engage in. Additionally, I am exploring privacy education for children, identifying
+            key design challenges and effective strategies to develop tangible interfaces that enhance privacy education.
           </p>
          
         </div>
