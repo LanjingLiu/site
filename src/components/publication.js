@@ -20,10 +20,10 @@ export default {
       talk: ''
     },
     {
-      cover: 'smartwatch_chi24/cover.jpg',
-      animation: 'smartwatch_chi24/animation.jpg',
+      cover: 'privacyeducation_pets24/cover.jpg',
+      animation: 'privacyeducation_pets24/animation.jpg',
       title:
-        " Exploring Design Opportunities for Family-Based Privacy Education in Informal Learning Spaces",
+        "Exploring Design Opportunities for Family-Based Privacy Education in Informal Learning Spaces",
       authors: [
         'Lanjing Liu',
         'Lan Gao',
@@ -33,7 +33,7 @@ export default {
       abstract:
         'Children face increasing privacy risks and the need to navigate complex choices, while privacy education is not sufficient due to limited education scope and family involvement. We advocate for informal learning spaces (ILS) as a pioneering channel for familybased privacy education, given their established role in holistic technology and digital literacy education, which specifically targets family groups. In this paper, we conducted an interview study with eight families to understand revealing current approaches to privacy education and engagement with ILS for family-based learning. Our findings highlight ILS’s transformative potential in family privacy education, considering existing practices and challenges. We discuss the design opportunities for family-based privacy education in ILS, covering goals, content, engagement, and experience design. These insights contribute to future research on family-based privacy education in ILS.',
       venue:
-        'To Appear in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024) and 24th Privacy Enhancing Technologies Symposium (PETS 2024)',
+        'To Appear in 24th Privacy Enhancing Technologies Symposium (PETS 2024)',
       pdf: '',
       link: '',
       video: '',
@@ -69,6 +69,43 @@ export default {
     }
   ],
   others: [
-    
+    {
+      cover: 'privacyeducation_chillbw24/cover.jpg',
+      animation: 'privacyeducation_chillbw24/animation.jpg',
+      title:
+        "Integrating Family Privacy Education and Informal Learning Spaces: Characteristics, Challenges and Design Opportunities",
+      authors: [
+        'Lanjing Liu',
+        'Lan Gao',
+        'Nikita Soni',
+        'Yaxing Yao'
+      ],
+      abstract:
+        'Children face increasing privacy risks and the need to navigate complex choices, while privacy education is not sufficient due to limited education scope and family involvement. We advocate for informal learning spaces (ILS) as a pioneering channel for familybased privacy education, given their established role in holistic technology and digital literacy education, which specifically targets family groups. In this paper, we conducted an interview study with five families to understand revealing current approaches to privacy education and engagement with ILS for family-based learning. Our findings highlight ILS’s trans-formative potential in family privacy education, considering existing practices and challenges. We discuss the reason for family-based privacy education in ILS and identify potential design opportunities. Additionally, we outline our future work, which involves expanding participant involvement and conducting co-design activities with family groups to create design prototypes.',
+      venue:
+        'Late Breaking Work of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)',
+      pdf: 'privacyeducation_chillbw24/privacyeducation_chilbw24.pdf',
+      link: '',
+      video: '',
+      talk: ''
+    },
+    {
+      cover: 'ukdesigneducation/cover.jpg',
+      animation: 'ukdesigneducation/animation.jpg',
+      title:
+        "A Study of the Early Youth Design Education Movement in Britain:Case study about the Royal College of Art（1974-1995）",
+      authors: [
+        'Lei Zhang',
+        'Lanjing Liu'
+      ],
+      abstract:
+        'In the 1970s, the youth design education movement originated in the United Kingdom. The team of the Royal College of Art, represented by Bruce Archer, constructed a "British model" based on a technology-led material culture, with the goal of fostering design awareness and the means of practical knowledge learning and action research. After more than 20 years of hard work, the "design and technology" curriculum was formally incorporated into the national curriculum system for primary and secondary schools. This was both a major achievement and a turning point for the movement. ',
+      venue:
+        'Journal of Nanjing Arts Institute (Fine Arts \＆ Design) [CSSCI]. 2023, (01) ',
+      pdf: '',
+      link: '',
+      video: '',
+      talk: ''
+    },
   ]
 };

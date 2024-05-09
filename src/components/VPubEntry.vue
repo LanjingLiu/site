@@ -8,7 +8,7 @@
           v-for="(val, index) in entry['authors']"
           :key="index"
           :class="
-            val === 'Chao Zhang' || val === 'Chao Zhang*'
+            val === 'Lanjing Liu' || val === 'Lanjing Liu*'
               ? 'font-semibold'
               : 'font-normal'
           "

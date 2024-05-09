@@ -56,8 +56,7 @@
     </details> -->
     <details class="paper">
       <summary class="title p-3">
-        Other Publications - Design Tools / Digital Fabrication / Minor Lightly-Reviewed
-        Posters
+        Other Publications - Design Research / Minor Lightly-Reviewed Posters
       </summary>
       <div class="entries">
         <div v-for="(val, index) in pub['others']" :key="index" class="news_entry">
