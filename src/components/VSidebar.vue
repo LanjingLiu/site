@@ -6,17 +6,11 @@
         <a :href="pdf" target="_blank">
           <icon-academicons-cv-square class="icon" />
         </a>
-        <a href="https://scholar.google.com/citations?user=NgaSTisAAAAJ&hl=en">
+        <a href="https://scholar.google.com/citations?user=aBMDjCkAAAAJ&hl=en">
           <icon-academicons-google-scholar-square class="icon" />
         </a>
-        <a href="https://twitter.com/zhangchaodesign">
+        <a href="https://twitter.com/LanjingLiu">
           <icon-fa-brands-twitter-square class="icon" />
-        </a>
-        <a href="https://www.instagram.com/zhangchaodesign/">
-          <icon-fa-brands-instagram-square class="icon" />
-        </a>
-        <a href="https://github.com/zhangchaodesign">
-          <icon-fa-brands-github-square class="icon" />
         </a>
         <a href="mailto:lanjing@vt.edu">
           <icon-ic-round-email class="icon" />

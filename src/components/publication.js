@@ -68,5 +68,7 @@ export default {
       talk: 'https://youtu.be/Dd47PQtci90'
     }
   ],
-
+  others: [
+    
+  ]
 };

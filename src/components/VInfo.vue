@@ -13,8 +13,8 @@
       <p class="paragraph">
         I am a first-year Ph.D. student at
         <a href="https://www.vt.edu/">Virginia Tech</a>, advised by
-        <a href="https://yaxingyao.com/">Yaxing Yao</a>. I serve as both a UX designer
-        and an HCI researcher. As a <span class="phrase_highlight">UX DESIGNER</span>, my
+        <a href="https://yaxingyao.com/">Yaxing Yao</a>. I serve as both a designer
+        and an HCI researcher. As a <span class="phrase_highlight">DESIGNER</span>, I focus on promotemy
         designs have been recognized in esteemed design competitions such as Red Dot, iF,
         and A’ Design, and featured at notable events including Dubai Design Week and
         China Design Exhibition. As an
