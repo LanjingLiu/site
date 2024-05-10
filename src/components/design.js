@@ -13,6 +13,24 @@ export default {
           'https://ifdesign.com/en/winner-ranking/project/oneshoe/340348'
       },
       video: ''
+    },
+    {
+      cover_1: 'designofcommunity/cover.jpg',
+      cover_2: 'designofcommunity/animation.gif',
+      title: 'Design of Community: Design for People in the Community',
+      authors: ['Lanjing Liu'],
+      pdf: 'designofcommunity/designofcommunity.pdf',
+      link: '',
+      video: ''
+    },
+    {
+      cover_1: 'detectiveincommunity/cover.jpg',
+      cover_2: 'detectiveincommunity/animation.gif',
+      title: 'Design of Community: Rethink and Redesign Wild Places in the Community',
+      authors: ['Lanjing Liu'],
+      pdf: 'detectiveincommunity/detectiveincommunity.pdf',
+      link: '',
+      video: ''
     }
   ]
 };
