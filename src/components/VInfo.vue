@@ -6,7 +6,7 @@
         <img class="logo" src="@/assets/logo/logo_light.svg" alt="" />
       </div>
 
-      <p class="title">Ph.D. Student (she/her/her) @ Virginia Tech</p>
+      <p class="title">Ph.D. Student (she/her/hers) @ Virginia Tech</p>
     </div>
 
     <div class="detail">
