@@ -1,5 +1,9 @@
 export default [
   {
+    date: '08/10',
+    content: 'Travel to Philadelphia for SOUPS\' 2024'
+  },
+  {
     date: '07/14',
     content: 'Travel to Bristol, the UK for PoPETS\' 2024'
   },
