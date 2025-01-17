@@ -1,5 +1,9 @@
 export default [
   {
+    date: '01/17',
+    content: 'First authored paper "From Knowledge to Practice: Co-Designing Privacy Controls with Children" was conditionally accepted to CHI \'25! Thanks to my advisor and participants!'
+  },
+  {
     date: '08/10',
     content: 'Travel to Philadelphia for SOUPS\' 2024'
   },
@@ -17,7 +21,7 @@ export default [
   },
   {
     date: '01/24',
-    content: 'Co-first authored "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" were conditionally accepted to CHI \'24! It\'s my first CHI paper! Thanks to my collaborators!'
+    content: 'Co-first authored "Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization" was conditionally accepted to CHI \'24! It\'s my first CHI paper! Thanks to my collaborators!'
   },
   {
     date: '06/01',
