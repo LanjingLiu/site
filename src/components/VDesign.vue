@@ -3,9 +3,7 @@
     <div class="w-full px-3">
       <div class="announcement paragraph">
         <p class="text-dark text-xs leading-6 font-signika-negative">
-          As a designer, I design with and for children, 
-          am deeply passionate about leveraging the power of design
-          to foster sustainability, inclusivity, and impactful societal changes.
+          As a designer, I design with and for children.
         </p>
       </div>
     </div>

@@ -11,7 +11,7 @@
 
     <div class="detail">
       <p class="paragraph">
-        I am a first-year Ph.D. student at
+        I am a second-year Ph.D. student at
         <a href="https://www.vt.edu/">Virginia Tech</a>, advised by
         <a href="https://yaxingyao.com/">Yaxing Yao</a>. I serve as both a designer and an
         HCI researcher. As a <span class="phrase_highlight">DESIGNER</span>, I design with
@@ -40,12 +40,10 @@
             <b
               >intersection of Child-Computer Interaction, Design, and Technology
               Ethics</b
-            >, with a particular focus on <b>Usable Privacy</b>. Currently, I am
-            investigating how teenagers interact with technology—examining both the
-            benefits they gain and the abuses they engage in. Additionally, I am exploring
-            privacy education for children, identifying key design challenges, and
-            developing effective strategies to create tangible interfaces that enhance
-            privacy education.
+            >, with a particular focus on <b>Usable Privacy</b>. 
+           My research investigates how teenagers engage with technology, examining 
+           current usage patterns and exploring opportunities for more effective, 
+           ethical, and innovative applications in the future.
           </p>
         </div>
       </div>
