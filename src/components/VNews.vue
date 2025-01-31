@@ -27,7 +27,7 @@ export default {
   @apply flex flex-col gap-3;
 
   .news_entry_list {
-    @apply flex flex-col gap-1 h-[50px] lg:h-[180px] overflow-auto select-none;
+    @apply flex flex-col gap-1 h-[50px] lg:h-[160px] overflow-auto select-none;
 
     // &:hover {
     //   @apply overflow-auto overscroll-none pr-0;

@@ -32,18 +32,15 @@
 
         <div>
           <p class="paragraph">
-            With an interdisciplinary background in Design (M.A. from
-            <a href="https://tjdi.tongji.edu.cn/?lang=en">Tongji University</a>),
-            Industrial Design (B.E. from
-            <a href="https://english.jiangnan.edu.cn/">Jiangnan University</a>), my
-            research interests primarily lie at the
-            <b
-              >intersection of Child-Computer Interaction, Design, and Technology
-              Ethics</b
-            >, with a particular focus on <b>Usable Privacy</b>. 
-           My research investigates how teenagers engage with technology, examining 
-           current usage patterns and exploring opportunities for more effective, 
-           ethical, and innovative applications in the future.
+            My research interests primarily lie at the
+            intersection of <b>Child-Computer Interaction, Design, and Technology
+              Ethics</b>, with a particular focus on <b>Usable Privacy</b>. 
+          My current research investigates how teenagers engage with technology, 
+          employing co-design methods to examine how they internalize privacy, 
+          act on it, and their expectations for control mechanisms. 
+          Moreover, I design interactive systems that empower youth to critically 
+          learn and practice privacy within everyday digital contexts—exploring 
+          opportunities to enhance ethical, equitable, and effective technology use for young users.
           </p>
         </div>
       </div>
